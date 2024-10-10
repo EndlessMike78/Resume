@@ -1,2 +1,2 @@
 # Resume
-Acollection of projects to show off my coding.
+A collection of projects to show off my coding.
